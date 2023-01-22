@@ -4,7 +4,7 @@
 import random
 
 name = "Rob"
-question = "Are UFOs real?"
+question = "Will it snow today?"
 answer = ""
 random_number = random.randint(1, 10)
 
